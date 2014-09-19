@@ -26,6 +26,7 @@ title: "README.md"
 14. Converts activity codes to corresponding descriptions for the dataset from Step 13
 15. Creates independent tidy data set with the average of each variable for each activity and each subject
 16. Writes the tidy dataset from Step 15 to a text file
+
 ##Functioning of analysis Script -- extractData.R [Arguments - train/test folder path & columns to be extracted]
 1. Gets the file names for X, Y & Subject based on the folder path passed as first argument
 2. It reads the X Test/Train data
